@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Cnn UI Tests" parallel="tests">
+
+    <!--<parameter name="sauceUsername" value="rahmanww"/>-->
+    <!--<parameter name="sauceKey" value="e45ab198-cbcb-4f8f-89b9-639b0894e0bf"/>-->
+
+    <!-- If useSauce is false then all tests are on local-->
+    <parameter name="useSauce" value="true"/>
+
+    <parameter name="URL" value=""/>
+    <parameter name="userName" value=""/>
+    <parameter name="password" value=""/>
+
+
+    <parameter name="" value=""/>
+    <parameter name="" value=""/>
+    <parameter name="" value=""/>
+
+
+    <test name="Cnn on Mac with firefox Tests">
+        <parameter name="os" value="VISTA"/>
+        <parameter name="browser" value="googlechrome"/>
+        <parameter name="browser" value="firefox"/>
+        <classes>
+            <!--<class name="HomePage"/>-->
+            <class name="generic.CnnHomePageRunAtSaucelabs"/>
+        </classes>
+    </test>
+
+    <!-- Test specific params are defined below this-->
+    <parameter name="" value=""/>
+</suite>
