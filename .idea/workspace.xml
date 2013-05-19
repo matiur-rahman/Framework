@@ -22,7 +22,7 @@
     <file path="/CnnHomePageRunAtSaucelabs.java" changelist="56632fc2-a10d-4930-b4b8-1c8578d5f0b7" time="1367133502843" ignored="false" />
     <file path="$PROJECT_DIR$/../ProjectSeleniumFrameWork/src/cnn/test/HomePage.java" changelist="56632fc2-a10d-4930-b4b8-1c8578d5f0b7" time="1367136452732" ignored="false" />
     <file path="$PROJECT_DIR$/../ProjectSeleniumFrameWork/src/base/cnn/Base.java" changelist="56632fc2-a10d-4930-b4b8-1c8578d5f0b7" time="1367136452732" ignored="false" />
-    <file path="/Dummy.txt" changelist="56632fc2-a10d-4930-b4b8-1c8578d5f0b7" time="1368932873130" ignored="false" />
+    <file path="/Dummy.txt" changelist="56632fc2-a10d-4930-b4b8-1c8578d5f0b7" time="1368997733273" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,10 +83,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="pom.xml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Cnn/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="29" selection-start="680" selection-end="680" vertical-scroll-proportion="0.0">
+            <state line="59" column="26" selection-start="2057" selection-end="2057" vertical-scroll-proportion="0.4402985">
               <folding />
             </state>
           </provider>
@@ -135,10 +135,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SauceConnectTest.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="SauceConnectTest.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Cnn/src/test/java/generic/SauceConnectTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="34" column="0" selection-start="1148" selection-end="1148" vertical-scroll-proportion="0.33333334">
+            <state line="34" column="0" selection-start="1148" selection-end="1148" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -170,10 +170,8 @@
       <file leaf-file-name="NavigationCnn.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Cnn/src/main/java/qa/NavigationCnn.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="46" selection-start="301" selection-end="301" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state line="10" column="38" selection-start="194" selection-end="194" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -181,7 +179,7 @@
       <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="44" selection-start="526" selection-end="526" vertical-scroll-proportion="0.0">
+            <state line="19" column="78" selection-start="675" selection-end="675" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -780,7 +778,11 @@
       <created>1368932876173</created>
       <updated>1368932876173</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="testNG build is commented out in pom.xml">
+      <created>1368997736001</created>
+      <updated>1368997736001</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -851,7 +853,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="testng.xml deleted" />
+    <option name="LAST_COMMIT_MESSAGE" value="testNG build is commented out in pom.xml" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -869,6 +871,7 @@
     <MESSAGE value="running locally" />
     <MESSAGE value="testng.xml skipped" />
     <MESSAGE value="testng.xml deleted" />
+    <MESSAGE value="testNG build is commented out in pom.xml" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -908,13 +911,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="44" selection-start="526" selection-end="526" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/selenium/src/main/java/generic/SauceConnect.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="47" column="31" selection-start="1534" selection-end="1542" vertical-scroll-proportion="0.0">
@@ -939,15 +935,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Cnn/src/main/java/qa/NavigationCnn.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="46" selection-start="301" selection-end="301" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Cnn/src/test/resources/runner.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="7" column="60" selection-start="352" selection-end="352" vertical-scroll-proportion="0.0">
@@ -962,16 +949,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Cnn/pom.xml">
+    <entry file="file://$PROJECT_DIR$/Cnn/src/test/java/generic/SauceConnectTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="29" selection-start="680" selection-end="680" vertical-scroll-proportion="0.0">
+        <state line="34" column="0" selection-start="1148" selection-end="1148" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Cnn/src/test/java/generic/SauceConnectTest.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="0" selection-start="1148" selection-end="1148" vertical-scroll-proportion="0.33333334">
+        <state line="19" column="78" selection-start="675" selection-end="675" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cnn/src/main/java/qa/NavigationCnn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="38" selection-start="194" selection-end="194" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cnn/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="59" column="26" selection-start="2057" selection-end="2057" vertical-scroll-proportion="0.4402985">
           <folding />
         </state>
       </provider>
