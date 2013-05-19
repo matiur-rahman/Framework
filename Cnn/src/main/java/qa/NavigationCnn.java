@@ -14,7 +14,7 @@ import generic.BaseUtility;
 
 import generic.SauceConnect;
 
-public class NavigationCnn extends BaseUtility {
+public class NavigationCnn extends SauceConnect {
 
     public void clickOnMenu(String menuName){
         clickByCss("#nav-" + menuName);

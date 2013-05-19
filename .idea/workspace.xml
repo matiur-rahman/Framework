@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="56632fc2-a10d-4930-b4b8-1c8578d5f0b7" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Cnn/pom.xml" afterPath="$PROJECT_DIR$/Cnn/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Cnn/src/main/java/qa/NavigationCnn.java" afterPath="$PROJECT_DIR$/Cnn/src/main/java/qa/NavigationCnn.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Framework.iws" />
@@ -12,7 +12,7 @@
     <file path="/a.java" changelist="56632fc2-a10d-4930-b4b8-1c8578d5f0b7" time="1367032755863" ignored="false" />
     <file path="/a.xml" changelist="56632fc2-a10d-4930-b4b8-1c8578d5f0b7" time="1367032756747" ignored="false" />
     <file path="/BaseUtility.java" changelist="56632fc2-a10d-4930-b4b8-1c8578d5f0b7" time="1367087940120" ignored="false" />
-    <file path="/NavigationCnn.java" changelist="56632fc2-a10d-4930-b4b8-1c8578d5f0b7" time="1368851827674" ignored="false" />
+    <file path="/NavigationCnn.java" changelist="56632fc2-a10d-4930-b4b8-1c8578d5f0b7" time="1369001055806" ignored="false" />
     <file path="/fragment.java" changelist="56632fc2-a10d-4930-b4b8-1c8578d5f0b7" time="1368932406115" ignored="false" />
     <file path="/HomePage.java" changelist="56632fc2-a10d-4930-b4b8-1c8578d5f0b7" time="1367129599849" ignored="false" />
     <file path="/runner.xml" changelist="56632fc2-a10d-4930-b4b8-1c8578d5f0b7" time="1367159147730" ignored="false" />
@@ -22,7 +22,7 @@
     <file path="/CnnHomePageRunAtSaucelabs.java" changelist="56632fc2-a10d-4930-b4b8-1c8578d5f0b7" time="1367133502843" ignored="false" />
     <file path="$PROJECT_DIR$/../ProjectSeleniumFrameWork/src/cnn/test/HomePage.java" changelist="56632fc2-a10d-4930-b4b8-1c8578d5f0b7" time="1367136452732" ignored="false" />
     <file path="$PROJECT_DIR$/../ProjectSeleniumFrameWork/src/base/cnn/Base.java" changelist="56632fc2-a10d-4930-b4b8-1c8578d5f0b7" time="1367136452732" ignored="false" />
-    <file path="/Dummy.txt" changelist="56632fc2-a10d-4930-b4b8-1c8578d5f0b7" time="1368997733273" ignored="false" />
+    <file path="/Dummy.txt" changelist="56632fc2-a10d-4930-b4b8-1c8578d5f0b7" time="1369000924556" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,10 +83,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="pom.xml" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Cnn/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="59" column="26" selection-start="2057" selection-end="2057" vertical-scroll-proportion="0.4402985">
+            <state line="59" column="26" selection-start="2057" selection-end="2057" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -167,11 +167,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NavigationCnn.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="NavigationCnn.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Cnn/src/main/java/qa/NavigationCnn.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="38" selection-start="194" selection-end="194" vertical-scroll-proportion="0.0">
-              <folding />
+            <state line="16" column="47" selection-start="302" selection-end="302" vertical-scroll-proportion="0.3325301">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -219,8 +221,8 @@
         <option value="$PROJECT_DIR$/selenium/pom.xml" />
         <option value="$PROJECT_DIR$/Cnn/src/test/resources/runner.xml" />
         <option value="$PROJECT_DIR$/Cnn/src/test/java/HomePage.java" />
-        <option value="$PROJECT_DIR$/Cnn/src/main/java/qa/NavigationCnn.java" />
         <option value="$PROJECT_DIR$/Cnn/pom.xml" />
+        <option value="$PROJECT_DIR$/Cnn/src/main/java/qa/NavigationCnn.java" />
       </list>
     </option>
   </component>
@@ -782,7 +784,11 @@
       <created>1368997736001</created>
       <updated>1368997736001</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="testNG build is put it back in pom.xml">
+      <created>1369000929448</created>
+      <updated>1369000929448</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -853,7 +859,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="testNG build is commented out in pom.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="testNG build is put it back in pom.xml" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -872,6 +878,7 @@
     <MESSAGE value="testng.xml skipped" />
     <MESSAGE value="testng.xml deleted" />
     <MESSAGE value="testNG build is commented out in pom.xml" />
+    <MESSAGE value="testNG build is put it back in pom.xml" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -963,17 +970,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Cnn/src/main/java/qa/NavigationCnn.java">
+    <entry file="file://$PROJECT_DIR$/Cnn/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="38" selection-start="194" selection-end="194" vertical-scroll-proportion="0.0">
+        <state line="59" column="26" selection-start="2057" selection-end="2057" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Cnn/pom.xml">
+    <entry file="file://$PROJECT_DIR$/Cnn/src/main/java/qa/NavigationCnn.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="59" column="26" selection-start="2057" selection-end="2057" vertical-scroll-proportion="0.4402985">
-          <folding />
+        <state line="16" column="47" selection-start="302" selection-end="302" vertical-scroll-proportion="0.3325301">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
