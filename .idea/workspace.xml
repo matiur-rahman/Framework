@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="56632fc2-a10d-4930-b4b8-1c8578d5f0b7" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Cnn/src/main/java/qa/NavigationCnn.java" afterPath="$PROJECT_DIR$/Cnn/src/main/java/qa/NavigationCnn.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Cnn/src/test/resources/runner.xml" afterPath="$PROJECT_DIR$/Cnn/src/test/resources/testng.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Framework.iws" />
@@ -11,18 +11,18 @@
     <file path="/a.html" changelist="56632fc2-a10d-4930-b4b8-1c8578d5f0b7" time="1367032749803" ignored="false" />
     <file path="/a.java" changelist="56632fc2-a10d-4930-b4b8-1c8578d5f0b7" time="1367032755863" ignored="false" />
     <file path="/a.xml" changelist="56632fc2-a10d-4930-b4b8-1c8578d5f0b7" time="1367032756747" ignored="false" />
-    <file path="/BaseUtility.java" changelist="56632fc2-a10d-4930-b4b8-1c8578d5f0b7" time="1367087940120" ignored="false" />
-    <file path="/NavigationCnn.java" changelist="56632fc2-a10d-4930-b4b8-1c8578d5f0b7" time="1369001055806" ignored="false" />
+    <file path="/BaseUtility.java" changelist="56632fc2-a10d-4930-b4b8-1c8578d5f0b7" time="1377959718345" ignored="false" />
+    <file path="/NavigationCnn.java" changelist="56632fc2-a10d-4930-b4b8-1c8578d5f0b7" time="1376835803519" ignored="false" />
     <file path="/fragment.java" changelist="56632fc2-a10d-4930-b4b8-1c8578d5f0b7" time="1368932406115" ignored="false" />
     <file path="/HomePage.java" changelist="56632fc2-a10d-4930-b4b8-1c8578d5f0b7" time="1367129599849" ignored="false" />
-    <file path="/runner.xml" changelist="56632fc2-a10d-4930-b4b8-1c8578d5f0b7" time="1367159147730" ignored="false" />
+    <file path="/runner.xml" changelist="56632fc2-a10d-4930-b4b8-1c8578d5f0b7" time="1376836837845" ignored="false" />
     <file path="/pom.xml" changelist="56632fc2-a10d-4930-b4b8-1c8578d5f0b7" time="1367124345689" ignored="false" />
     <file path="$PROJECT_DIR$/../SeleniumFramework/pom.xml" changelist="56632fc2-a10d-4930-b4b8-1c8578d5f0b7" time="1367087825671" ignored="false" />
     <file path="/SauceConnect.java" changelist="56632fc2-a10d-4930-b4b8-1c8578d5f0b7" time="1367133607663" ignored="false" />
     <file path="/CnnHomePageRunAtSaucelabs.java" changelist="56632fc2-a10d-4930-b4b8-1c8578d5f0b7" time="1367133502843" ignored="false" />
     <file path="$PROJECT_DIR$/../ProjectSeleniumFrameWork/src/cnn/test/HomePage.java" changelist="56632fc2-a10d-4930-b4b8-1c8578d5f0b7" time="1367136452732" ignored="false" />
     <file path="$PROJECT_DIR$/../ProjectSeleniumFrameWork/src/base/cnn/Base.java" changelist="56632fc2-a10d-4930-b4b8-1c8578d5f0b7" time="1367136452732" ignored="false" />
-    <file path="/Dummy.txt" changelist="56632fc2-a10d-4930-b4b8-1c8578d5f0b7" time="1369000924556" ignored="false" />
+    <file path="/Dummy.txt" changelist="56632fc2-a10d-4930-b4b8-1c8578d5f0b7" time="1369001289160" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +86,7 @@
       <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Cnn/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="59" column="26" selection-start="2057" selection-end="2057" vertical-scroll-proportion="0.0">
+            <state line="87" column="56" selection-start="2919" selection-end="2919" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -95,16 +95,16 @@
       <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/selenium/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="41" selection-start="623" selection-end="623" vertical-scroll-proportion="0.0">
+            <state line="64" column="47" selection-start="2008" selection-end="2008" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="runner.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Cnn/src/test/resources/runner.xml">
+      <file leaf-file-name="testng.xml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Cnn/src/test/resources/testng.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="60" selection-start="352" selection-end="352" vertical-scroll-proportion="0.0">
+            <state line="26" column="71" selection-start="952" selection-end="952" vertical-scroll-proportion="0.8724832">
               <folding />
             </state>
           </provider>
@@ -113,7 +113,7 @@
       <file leaf-file-name="SauceConnect.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/selenium/src/main/java/generic/SauceConnect.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="47" column="31" selection-start="1534" selection-end="1542" vertical-scroll-proportion="0.0">
+            <state line="47" column="60" selection-start="1571" selection-end="1571" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="e#4954#4962#0" expanded="true" />
                 <element signature="e#5891#5899#0" expanded="true" />
@@ -127,7 +127,7 @@
       <file leaf-file-name="CnnHomePageRunAtSaucelabs.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Cnn/src/test/java/generic/CnnHomePageRunAtSaucelabs.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="53" selection-start="342" selection-end="342" vertical-scroll-proportion="0.0">
+            <state line="9" column="16" selection-start="185" selection-end="185" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -138,7 +138,7 @@
       <file leaf-file-name="SauceConnectTest.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Cnn/src/test/java/generic/SauceConnectTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="34" column="0" selection-start="1148" selection-end="1148" vertical-scroll-proportion="0.0">
+            <state line="29" column="55" selection-start="967" selection-end="967" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -147,7 +147,7 @@
       <file leaf-file-name="BaseUtility.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/selenium/src/main/java/generic/BaseUtility.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="41" column="24" selection-start="1442" selection-end="1453" vertical-scroll-proportion="0.0">
+            <state line="232" column="5" selection-start="7664" selection-end="7893" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="e#4469#4477#0" expanded="true" />
                 <element signature="e#5407#5415#0" expanded="true" />
@@ -161,16 +161,19 @@
       <file leaf-file-name="HomePage.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Cnn/src/test/java/HomePage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="49" selection-start="477" selection-end="477" vertical-scroll-proportion="0.0">
-              <folding />
+            <state line="30" column="25" selection-start="864" selection-end="864" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NavigationCnn.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="NavigationCnn.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Cnn/src/main/java/qa/NavigationCnn.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="47" selection-start="302" selection-end="302" vertical-scroll-proportion="0.3325301">
+            <state line="16" column="47" selection-start="302" selection-end="302" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -181,7 +184,7 @@
       <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="78" selection-start="675" selection-end="675" vertical-scroll-proportion="0.0">
+            <state line="19" column="24" selection-start="675" selection-end="675" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -207,22 +210,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/selenium/src/main/java/Generic/BaseUtility.java" />
         <option value="$PROJECT_DIR$/selenium/src/main/java/cnn/NavigationCnn.java" />
         <option value="$PROJECT_DIR$/selenium/src/test/java/HomePage.java" />
         <option value="$PROJECT_DIR$/selenium/src/test/java/qa/HomePage.java" />
         <option value="$PROJECT_DIR$/selenium/src/test/resources/runner.xml" />
-        <option value="$PROJECT_DIR$/selenium/src/main/java/generic/BaseUtility.java" />
         <option value="$PROJECT_DIR$/selenium/src/test/java/qa/NavigationCnn.java" />
         <option value="$PROJECT_DIR$/Cnn/src/test/java/generic/SauceConnect.java" />
         <option value="$PROJECT_DIR$/Cnn/src/test/java/generic/CnnHomePageRunAtSaucelabs.java" />
         <option value="$PROJECT_DIR$/selenium/src/main/java/generic/SauceConnect.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/selenium/pom.xml" />
-        <option value="$PROJECT_DIR$/Cnn/src/test/resources/runner.xml" />
         <option value="$PROJECT_DIR$/Cnn/src/test/java/HomePage.java" />
         <option value="$PROJECT_DIR$/Cnn/pom.xml" />
         <option value="$PROJECT_DIR$/Cnn/src/main/java/qa/NavigationCnn.java" />
+        <option value="$PROJECT_DIR$/Cnn/src/test/resources/runner.xml" />
+        <option value="$PROJECT_DIR$/selenium/src/main/java/generic/BaseUtility.java" />
+        <option value="$PROJECT_DIR$/Cnn/src/test/resources/testng.xml" />
       </list>
     </option>
   </component>
@@ -247,22 +250,8 @@
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
         </PATH_ELEMENT>
         <PATH_ELEMENT>
-          <option name="myItemId" value="Cnn" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
-        </PATH_ELEMENT>
-      </PATH>
-      <PATH>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="Cnn" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="Lifecycle" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$LifecycleNode" />
+          <option name="myItemId" value="Profiles" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProfilesNode" />
         </PATH_ELEMENT>
       </PATH>
     </treeState>
@@ -275,8 +264,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="11" />
-    <option name="y" value="24" />
+    <option name="x" value="16" />
+    <option name="y" value="76" />
     <option name="width" value="1420" />
     <option name="height" value="804" />
   </component>
@@ -353,10 +342,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -474,6 +459,36 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="generic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Framework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Framework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Cnn" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="main" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -523,36 +538,7 @@
       <recent name="$PROJECT_DIR$/selenium/src/test" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG./Users/mrahman/Documents/workspace/Framework/Cnn/src/test/resources/runner.xml">
-    <configuration default="false" name="&lt;default&gt;" type="TestNG" factoryName="TestNG" temporary="true">
-      <module name="selenium" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="PACKAGE" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
-      <properties />
-      <listeners />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="TestNG./Users/mrahman/Documents/workspace/Framework/Cnn/src/test/resources/testng.xml">
     <configuration default="false" name="$PROJECT_DIR$/selenium/src/test/resources/runner.xml" type="TestNG" factoryName="TestNG" temporary="true">
       <module name="selenium" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -582,11 +568,98 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
+    <configuration default="false" name="HomePage" type="TestNG" factoryName="TestNG" temporary="true">
+      <module name="Cnn" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="HomePage" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="SauceConnectTest" type="TestNG" factoryName="TestNG" temporary="true">
+      <module name="Cnn" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="generic" />
+      <option name="MAIN_CLASS_NAME" value="generic.SauceConnectTest" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
     <configuration default="false" name="$PROJECT_DIR$/Cnn/src/test/resources/runner.xml" type="TestNG" factoryName="TestNG" temporary="true">
       <module name="Cnn" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/Cnn/src/test/resources/runner.xml" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="$PROJECT_DIR$/Cnn/src/test/resources/testng.xml" type="TestNG" factoryName="TestNG" temporary="true">
+      <module name="Cnn" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/Cnn/src/test/resources/testng.xml" />
       <option name="PACKAGE_NAME" />
       <option name="MAIN_CLASS_NAME" />
       <option name="METHOD_NAME" />
@@ -721,17 +794,19 @@
       <patterns />
       <method />
     </configuration>
-    <list size="3">
-      <item index="0" class="java.lang.String" itemvalue="TestNG.&lt;default&gt;" />
-      <item index="1" class="java.lang.String" itemvalue="TestNG./Users/mrahman/Documents/workspace/Framework/selenium/src/test/resources/runner.xml" />
-      <item index="2" class="java.lang.String" itemvalue="TestNG./Users/mrahman/Documents/workspace/Framework/Cnn/src/test/resources/runner.xml" />
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="TestNG./Users/mrahman/Documents/workspace/Framework/selenium/src/test/resources/runner.xml" />
+      <item index="1" class="java.lang.String" itemvalue="TestNG.HomePage" />
+      <item index="2" class="java.lang.String" itemvalue="TestNG.SauceConnectTest" />
+      <item index="3" class="java.lang.String" itemvalue="TestNG./Users/mrahman/Documents/workspace/Framework/Cnn/src/test/resources/runner.xml" />
+      <item index="4" class="java.lang.String" itemvalue="TestNG./Users/mrahman/Documents/workspace/Framework/Cnn/src/test/resources/testng.xml" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="TestNG./Users/mrahman/Documents/workspace/Framework/Cnn/src/test/resources/runner.xml" />
-        <item index="1" class="java.lang.String" itemvalue="TestNG./Users/mrahman/Documents/workspace/Framework/Cnn/src/test/resources/runner.xml" />
+        <item index="0" class="java.lang.String" itemvalue="TestNG./Users/mrahman/Documents/workspace/Framework/Cnn/src/test/resources/testng.xml" />
+        <item index="1" class="java.lang.String" itemvalue="TestNG./Users/mrahman/Documents/workspace/Framework/Cnn/src/test/resources/testng.xml" />
         <item index="2" class="java.lang.String" itemvalue="TestNG./Users/mrahman/Documents/workspace/Framework/Cnn/src/test/resources/runner.xml" />
-        <item index="3" class="java.lang.String" itemvalue="TestNG./Users/mrahman/Documents/workspace/Framework/Cnn/src/test/resources/runner.xml" />
+        <item index="3" class="java.lang.String" itemvalue="TestNG.SauceConnectTest" />
         <item index="4" class="java.lang.String" itemvalue="TestNG./Users/mrahman/Documents/workspace/Framework/Cnn/src/test/resources/runner.xml" />
       </list>
     </recent_temporary>
@@ -788,11 +863,15 @@
       <created>1369000929448</created>
       <updated>1369000929448</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="SauceConnect() has been added.">
+      <created>1369001293596</created>
+      <updated>1369001293596</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="11" y="24" width="1420" height="804" extended-state="0" />
+    <frame x="16" y="76" width="1420" height="804" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.12719299" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -807,10 +886,10 @@
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32748538" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.14628822" sideWeight="0.6812866" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22343522" sideWeight="0.6812866" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.10262009" sideWeight="0.7280702" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24454148" sideWeight="0.6812866" order="1" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31871346" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24163027" sideWeight="0.7280702" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27192983" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -859,7 +938,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="testNG build is put it back in pom.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="SauceConnect() has been added." />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -879,6 +958,7 @@
     <MESSAGE value="testng.xml deleted" />
     <MESSAGE value="testNG build is commented out in pom.xml" />
     <MESSAGE value="testNG build is put it back in pom.xml" />
+    <MESSAGE value="SauceConnect() has been added." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -902,25 +982,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Cnn/src/test/java/generic/CnnHomePageRunAtSaucelabs.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="53" selection-start="342" selection-end="342" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state line="19" column="24" selection-start="675" selection-end="675" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Cnn/src/test/java/HomePage.java">
+    <entry file="file://$PROJECT_DIR$/Cnn/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="49" selection-start="477" selection-end="477" vertical-scroll-proportion="0.0">
+        <state line="87" column="56" selection-start="2919" selection-end="2919" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/selenium/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="64" column="47" selection-start="2008" selection-end="2008" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/selenium/src/main/java/generic/SauceConnect.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="47" column="31" selection-start="1534" selection-end="1542" vertical-scroll-proportion="0.0">
+        <state line="47" column="60" selection-start="1571" selection-end="1571" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="e#4954#4962#0" expanded="true" />
             <element signature="e#5891#5899#0" expanded="true" />
@@ -932,7 +1017,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/selenium/src/main/java/generic/BaseUtility.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="24" selection-start="1442" selection-end="1453" vertical-scroll-proportion="0.0">
+        <state line="232" column="5" selection-start="7664" selection-end="7893" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="e#4469#4477#0" expanded="true" />
             <element signature="e#5407#5415#0" expanded="true" />
@@ -942,47 +1027,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Cnn/src/test/resources/runner.xml">
+    <entry file="file://$PROJECT_DIR$/Cnn/src/main/java/qa/NavigationCnn.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="60" selection-start="352" selection-end="352" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/selenium/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="41" selection-start="623" selection-end="623" vertical-scroll-proportion="0.0">
-          <folding />
+        <state line="16" column="47" selection-start="302" selection-end="302" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Cnn/src/test/java/generic/SauceConnectTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="0" selection-start="1148" selection-end="1148" vertical-scroll-proportion="0.0">
+        <state line="29" column="55" selection-start="967" selection-end="967" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/Cnn/src/test/java/HomePage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="78" selection-start="675" selection-end="675" vertical-scroll-proportion="0.0">
-          <folding />
+        <state line="30" column="25" selection-start="864" selection-end="864" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Cnn/pom.xml">
+    <entry file="file://$PROJECT_DIR$/Cnn/src/test/java/generic/CnnHomePageRunAtSaucelabs.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="59" column="26" selection-start="2057" selection-end="2057" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Cnn/src/main/java/qa/NavigationCnn.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="47" selection-start="302" selection-end="302" vertical-scroll-proportion="0.3325301">
+        <state line="9" column="16" selection-start="185" selection-end="185" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cnn/src/test/resources/testng.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="71" selection-start="952" selection-end="952" vertical-scroll-proportion="0.8724832">
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1043,6 +1126,7 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.5" />
               </list>
             </option>
           </splitter-proportions>

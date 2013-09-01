@@ -25,6 +25,7 @@
         <classes>
             <!--<class name="HomePage"/>-->
             <class name="generic.CnnHomePageRunAtSaucelabs"/>
+            <!--<class name="generic.SauceConnect"/>-->
         </classes>
     </test>
 
