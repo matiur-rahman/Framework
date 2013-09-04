@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="56632fc2-a10d-4930-b4b8-1c8578d5f0b7" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Cnn/src/test/resources/runner.xml" afterPath="$PROJECT_DIR$/Cnn/src/test/resources/testng.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Cnn/src/test/java/generic/CnnHomePageRunAtSaucelabs.java" afterPath="$PROJECT_DIR$/Cnn/src/test/java/generic/CnnHomePageRunAtSaucelabs.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Framework.iws" />
@@ -19,10 +19,10 @@
     <file path="/pom.xml" changelist="56632fc2-a10d-4930-b4b8-1c8578d5f0b7" time="1367124345689" ignored="false" />
     <file path="$PROJECT_DIR$/../SeleniumFramework/pom.xml" changelist="56632fc2-a10d-4930-b4b8-1c8578d5f0b7" time="1367087825671" ignored="false" />
     <file path="/SauceConnect.java" changelist="56632fc2-a10d-4930-b4b8-1c8578d5f0b7" time="1367133607663" ignored="false" />
-    <file path="/CnnHomePageRunAtSaucelabs.java" changelist="56632fc2-a10d-4930-b4b8-1c8578d5f0b7" time="1367133502843" ignored="false" />
+    <file path="/CnnHomePageRunAtSaucelabs.java" changelist="56632fc2-a10d-4930-b4b8-1c8578d5f0b7" time="1378254799730" ignored="false" />
     <file path="$PROJECT_DIR$/../ProjectSeleniumFrameWork/src/cnn/test/HomePage.java" changelist="56632fc2-a10d-4930-b4b8-1c8578d5f0b7" time="1367136452732" ignored="false" />
     <file path="$PROJECT_DIR$/../ProjectSeleniumFrameWork/src/base/cnn/Base.java" changelist="56632fc2-a10d-4930-b4b8-1c8578d5f0b7" time="1367136452732" ignored="false" />
-    <file path="/Dummy.txt" changelist="56632fc2-a10d-4930-b4b8-1c8578d5f0b7" time="1369001289160" ignored="false" />
+    <file path="/Dummy.txt" changelist="56632fc2-a10d-4930-b4b8-1c8578d5f0b7" time="1378047123236" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,10 +101,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="testng.xml" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="testng.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Cnn/src/test/resources/testng.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="71" selection-start="952" selection-end="952" vertical-scroll-proportion="0.8724832">
+            <state line="12" column="71" selection-start="520" selection-end="520" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -124,10 +124,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CnnHomePageRunAtSaucelabs.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="CnnHomePageRunAtSaucelabs.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Cnn/src/test/java/generic/CnnHomePageRunAtSaucelabs.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="16" selection-start="185" selection-end="185" vertical-scroll-proportion="0.0">
+            <state line="16" column="36" selection-start="388" selection-end="388" vertical-scroll-proportion="-0.26845637">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -216,7 +216,6 @@
         <option value="$PROJECT_DIR$/selenium/src/test/resources/runner.xml" />
         <option value="$PROJECT_DIR$/selenium/src/test/java/qa/NavigationCnn.java" />
         <option value="$PROJECT_DIR$/Cnn/src/test/java/generic/SauceConnect.java" />
-        <option value="$PROJECT_DIR$/Cnn/src/test/java/generic/CnnHomePageRunAtSaucelabs.java" />
         <option value="$PROJECT_DIR$/selenium/src/main/java/generic/SauceConnect.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/selenium/pom.xml" />
@@ -226,6 +225,7 @@
         <option value="$PROJECT_DIR$/Cnn/src/test/resources/runner.xml" />
         <option value="$PROJECT_DIR$/selenium/src/main/java/generic/BaseUtility.java" />
         <option value="$PROJECT_DIR$/Cnn/src/test/resources/testng.xml" />
+        <option value="$PROJECT_DIR$/Cnn/src/test/java/generic/CnnHomePageRunAtSaucelabs.java" />
       </list>
     </option>
   </component>
@@ -867,7 +867,11 @@
       <created>1369001293596</created>
       <updated>1369001293596</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="SauceConnect() has been added.">
+      <created>1378047134805</created>
+      <updated>1378047134806</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -888,7 +892,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.14628822" sideWeight="0.6812866" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.10262009" sideWeight="0.7280702" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24163027" sideWeight="0.7280702" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24163027" sideWeight="0.7280702" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27192983" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1003,18 +1007,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/selenium/src/main/java/generic/SauceConnect.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="47" column="60" selection-start="1571" selection-end="1571" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#4954#4962#0" expanded="true" />
-            <element signature="e#5891#5899#0" expanded="true" />
-            <element signature="e#6244#6252#0" expanded="true" />
-            <element signature="e#6639#6647#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/selenium/src/main/java/generic/BaseUtility.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="232" column="5" selection-start="7664" selection-end="7893" vertical-scroll-proportion="0.0">
@@ -1023,15 +1015,6 @@
             <element signature="e#5407#5415#0" expanded="true" />
             <element signature="e#5760#5768#0" expanded="true" />
             <element signature="e#6155#6163#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Cnn/src/main/java/qa/NavigationCnn.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="47" selection-start="302" selection-end="302" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1053,9 +1036,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Cnn/src/test/java/generic/CnnHomePageRunAtSaucelabs.java">
+    <entry file="file://$PROJECT_DIR$/selenium/src/main/java/generic/SauceConnect.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="16" selection-start="185" selection-end="185" vertical-scroll-proportion="0.0">
+        <state line="47" column="60" selection-start="1571" selection-end="1571" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#4954#4962#0" expanded="true" />
+            <element signature="e#5891#5899#0" expanded="true" />
+            <element signature="e#6244#6252#0" expanded="true" />
+            <element signature="e#6639#6647#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cnn/src/main/java/qa/NavigationCnn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="47" selection-start="302" selection-end="302" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1064,8 +1059,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Cnn/src/test/resources/testng.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="71" selection-start="952" selection-end="952" vertical-scroll-proportion="0.8724832">
+        <state line="12" column="71" selection-start="520" selection-end="520" vertical-scroll-proportion="0.0">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cnn/src/test/java/generic/CnnHomePageRunAtSaucelabs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="36" selection-start="388" selection-end="388" vertical-scroll-proportion="-0.26845637">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

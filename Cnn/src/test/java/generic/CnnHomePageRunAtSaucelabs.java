@@ -14,7 +14,7 @@ import java.util.List;
  */
 public class CnnHomePageRunAtSaucelabs extends NavigationCnn{
 
-    @Test
+    @Test    //running test on sauce
    public void topNavigation() {
         waitUntil(By.cssSelector("#us-menu"));
     List<String> menuBar = getListOfTextByCss("#us-menu", "li");
